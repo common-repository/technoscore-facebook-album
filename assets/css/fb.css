@@ -1,0 +1,16 @@
+.fb-preview-content{
+	margin-top:60px !important;
+}
+.fb-account-info{
+	display:none !important;
+}
+.fb-albums{
+	background-color: #F8F6EC;
+}
+.fbtimelineWrap{
+	padding:15px;
+	background-color:#F8F6EC;
+}
+.fbtimelineWrap .fb-album-container li.fb-album, li.fb-photo{
+	width: 163px!important;
+}
